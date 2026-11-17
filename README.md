@@ -46,6 +46,8 @@ Definitional murkiness → bluewashing verification → God-tier measurement as 
 
 [`transcript.md`](./transcript.md) — original mistakes preserved. The conversation is the domain-hopping chain mode of agentic learning: one question followed from finance into AI alignment and back, with the meta-lesson surfacing near the end rather than being the starting point.
 
+[`FACTCHECK.md`](./FACTCHECK.md) — Claude's claims checked against primary sources in November 2026, seven months on. 2 were wrong, including the "sleeper agent" problem the MoE thread was built on, which is really a different paper.
+
 ---
 
 *Read the [full agentic-learning philosophy →](https://github.com/evnchn-agentic/.github/blob/main/PHILOSOPHY_THINKER.md)*
